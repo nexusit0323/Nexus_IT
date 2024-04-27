@@ -1,0 +1,15 @@
+.mainnave{
+    padding-top: 0px;padding-bottom: 0px;margin-top: -18px;margin-bottom: -18px;
+}
+.cotainer-nav,picture,img{
+    padding-left: 0px;margin-left: -2px;padding-top: 2px;padding-bottom: 2px;margin-right: 0px;
+}
+.nav-item-service{
+    padding-left: 0px;margin-right: 219px;margin-left: -43px;
+}
+.nav-item-blog{
+    margin-right: 144px;padding-left: 0px;margin-left: -174px;padding-right: 0px;
+}
+body{
+    background-color: white;
+}
