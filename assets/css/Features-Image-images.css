@@ -1,0 +1,8 @@
+.fit-cover {
+  object-fit: cover;
+}
+body{
+  color: rgb(16, 108, 133);
+  background-color: rgb(255, 255, 255);
+}
+
